@@ -1,0 +1,4 @@
+2018-05-01 22:53:24,463  INFO [main] SVSignOnTest:44 - **********Before Test initiated********************
+2018-05-01 22:53:24,838  INFO [main] SVSignOnTest:64 - **********Before Method initiated********************
+2018-05-01 22:53:52,845  INFO [main] SVSignOnTest:82 - **********Click on SignOn button Test case initiated********************
+2018-05-01 22:53:52,893  INFO [main] SVSignOnTest:92 - **********end of test initiated********************
